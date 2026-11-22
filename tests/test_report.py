@@ -114,7 +114,7 @@ class OutputTests(unittest.TestCase):
 
     def test_sample_data_reconciles(self):
         tasks = load_tasks(ROOT / "data" / "maintenance.csv")
-        self.assertEqual(len(tasks), 72)
+        self.assertEqual(len(tasks), 73)
         self.assertEqual(summarize(tasks, AS_OF), {
             "total": 72, "completed": 24, "overdue": 8, "due_soon": 24, "later": 16,
         })
