@@ -1,1 +1,73 @@
-
+task_id,application,activity,owner,due_date,status
+MW-0001,Atlas Docs,Certificate renewal,Ops Team A,2026-11-10,Open
+MW-0002,Atlas Docs,Password rotation,Ops Team A,2026-11-15,Completed
+MW-0003,Atlas Docs,OS patching,Ops Team A,2026-11-20,In progress
+MW-0004,Atlas Docs,Vulnerability remediation,Ops Team A,2026-11-27,Open
+MW-0005,Atlas Docs,DR validation,Ops Team A,2026-12-04,Completed
+MW-0006,Atlas Docs,Vendor license review,Ops Team A,2026-12-20,Open
+MW-0007,Atlas Docs,Certificate renewal,Ops Team A,2026-12-21,In progress
+MW-0008,Atlas Docs,Password rotation,Ops Team A,2027-01-04,Completed
+MW-0009,Atlas Docs,OS patching,Ops Team A,2027-01-19,Open
+MW-0010,Beacon Queue,Password rotation,Ops Team B,2026-11-10,Open
+MW-0011,Beacon Queue,OS patching,Ops Team B,2026-11-15,Completed
+MW-0012,Beacon Queue,Vulnerability remediation,Ops Team B,2026-11-20,In progress
+MW-0013,Beacon Queue,DR validation,Ops Team B,2026-11-27,Open
+MW-0014,Beacon Queue,Vendor license review,Ops Team B,2026-12-04,Completed
+MW-0015,Beacon Queue,Certificate renewal,Ops Team B,2026-12-20,Open
+MW-0016,Beacon Queue,Password rotation,Ops Team B,2026-12-21,In progress
+MW-0017,Beacon Queue,OS patching,Ops Team B,2027-01-04,Completed
+MW-0018,Beacon Queue,Vulnerability remediation,Ops Team B,2027-01-19,Open
+MW-0019,Cedar Portal,OS patching,Ops Team C,2026-11-10,Open
+MW-0020,Cedar Portal,Vulnerability remediation,Ops Team C,2026-11-15,Completed
+MW-0021,Cedar Portal,DR validation,Ops Team C,2026-11-20,In progress
+MW-0022,Cedar Portal,Vendor license review,Ops Team C,2026-11-27,Open
+MW-0023,Cedar Portal,Certificate renewal,Ops Team C,2026-12-04,Completed
+MW-0024,Cedar Portal,Password rotation,Ops Team C,2026-12-20,Open
+MW-0025,Cedar Portal,OS patching,Ops Team C,2026-12-21,In progress
+MW-0026,Cedar Portal,Vulnerability remediation,Ops Team C,2027-01-04,Completed
+MW-0027,Cedar Portal,DR validation,Ops Team C,2027-01-19,Open
+MW-0028,Harbor Files,Vulnerability remediation,Ops Team D,2026-11-10,Open
+MW-0029,Harbor Files,DR validation,Ops Team D,2026-11-15,Completed
+MW-0030,Harbor Files,Vendor license review,Ops Team D,2026-11-20,In progress
+MW-0031,Harbor Files,Certificate renewal,Ops Team D,2026-11-27,Open
+MW-0032,Harbor Files,Password rotation,Ops Team D,2026-12-04,Completed
+MW-0033,Harbor Files,OS patching,Ops Team D,2026-12-20,Open
+MW-0034,Harbor Files,Vulnerability remediation,Ops Team D,2026-12-21,In progress
+MW-0035,Harbor Files,DR validation,Ops Team D,2027-01-04,Completed
+MW-0036,Harbor Files,Vendor license review,Ops Team D,2027-01-19,Open
+MW-0037,Maple Flow,DR validation,Ops Team A,2026-11-10,Open
+MW-0038,Maple Flow,Vendor license review,Ops Team A,2026-11-15,Completed
+MW-0039,Maple Flow,Certificate renewal,Ops Team A,2026-11-20,In progress
+MW-0040,Maple Flow,Password rotation,Ops Team A,2026-11-27,Open
+MW-0041,Maple Flow,OS patching,Ops Team A,2026-12-04,Completed
+MW-0042,Maple Flow,Vulnerability remediation,Ops Team A,2026-12-20,Open
+MW-0043,Maple Flow,DR validation,Ops Team A,2026-12-21,In progress
+MW-0044,Maple Flow,Vendor license review,Ops Team A,2027-01-04,Completed
+MW-0045,Maple Flow,Certificate renewal,Ops Team A,2027-01-19,Open
+MW-0046,Northstar Forms,Vendor license review,Ops Team B,2026-11-10,Open
+MW-0047,Northstar Forms,Certificate renewal,Ops Team B,2026-11-15,Completed
+MW-0048,Northstar Forms,Password rotation,Ops Team B,2026-11-20,In progress
+MW-0049,Northstar Forms,OS patching,Ops Team B,2026-11-27,Open
+MW-0050,Northstar Forms,Vulnerability remediation,Ops Team B,2026-12-04,Completed
+MW-0051,Northstar Forms,DR validation,Ops Team B,2026-12-20,Open
+MW-0052,Northstar Forms,Vendor license review,Ops Team B,2026-12-21,In progress
+MW-0053,Northstar Forms,Certificate renewal,Ops Team B,2027-01-04,Completed
+MW-0054,Northstar Forms,Password rotation,Ops Team B,2027-01-19,Open
+MW-0055,Orion Store,Certificate renewal,Ops Team C,2026-11-10,Open
+MW-0056,Orion Store,Password rotation,Ops Team C,2026-11-15,Completed
+MW-0057,Orion Store,OS patching,Ops Team C,2026-11-20,In progress
+MW-0058,Orion Store,Vulnerability remediation,Ops Team C,2026-11-27,Open
+MW-0059,Orion Store,DR validation,Ops Team C,2026-12-04,Completed
+MW-0060,Orion Store,Vendor license review,Ops Team C,2026-12-20,Open
+MW-0061,Orion Store,Certificate renewal,Ops Team C,2026-12-21,In progress
+MW-0062,Orion Store,Password rotation,Ops Team C,2027-01-04,Completed
+MW-0063,Orion Store,OS patching,Ops Team C,2027-01-19,Open
+MW-0064,Willow Jobs,Password rotation,Ops Team D,2026-11-10,Open
+MW-0065,Willow Jobs,OS patching,Ops Team D,2026-11-15,Completed
+MW-0066,Willow Jobs,Vulnerability remediation,Ops Team D,2026-11-20,In progress
+MW-0067,Willow Jobs,DR validation,Ops Team D,2026-11-27,Open
+MW-0068,Willow Jobs,Vendor license review,Ops Team D,2026-12-04,Completed
+MW-0069,Willow Jobs,Certificate renewal,Ops Team D,2026-12-20,Open
+MW-0070,Willow Jobs,Password rotation,Ops Team D,2026-12-21,In progress
+MW-0071,Willow Jobs,OS patching,Ops Team D,2027-01-04,Completed
+MW-0072,Willow Jobs,Vulnerability remediation,Ops Team D,2027-01-19,Open
